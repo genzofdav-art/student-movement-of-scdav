@@ -309,7 +309,7 @@
 
     <script>
         // Signature Count Animation
-        let count = 26;
+        let count = 37;
         const countEl = document.getElementById('count');
         countEl.textContent = count;
 
